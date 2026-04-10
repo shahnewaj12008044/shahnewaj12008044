@@ -62,7 +62,9 @@
   </a>
 </p>
 </p>
-
+<p align="center">
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:mdshahnewajalhasanmern@gmail.com)
+</p>
 ---
 
 ## :eyes: Current Overview
