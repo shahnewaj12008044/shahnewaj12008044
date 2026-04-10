@@ -62,17 +62,17 @@
 ## :mailbox: Reach me out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahnewaj-al-hasan-a131b2229" target="_blank">
+  <a href="https://www.linkedin.com/in/shahnewajalhasan" target="_blank">
     <img src="images/Linkedin.png" alt="LinkedIn"  height="75" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank">
+  <a href=["https://www.facebook.com/YOUR_FACEBOOK_PROFILE"](https://www.facebook.com/mdshahnewaj.alhasan) target="_blank">
     <img src="images/Facebook.png" alt="Facebook"  height="75" />
   </a>
 </p>
 
 <br />
----
+
 
 ## 👀 Current Overview
 
