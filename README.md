@@ -1,10 +1,18 @@
 <div align="center">
   <h1>Hi 👋, I'm Md. Shahnewaj Al Hasan</h1>
-  <h3>MERN Stack Developer | TypeScript Enthusiast | Physics Scholar</h3>
+  
+  <h3>
+    <span style="background: linear-gradient(90deg, #00C9FF, #92FE9D); 
+                 -webkit-background-clip: text; 
+                 -webkit-text-fill-color: transparent;">
+      MERN Stack Developer | AI Automation Builder | TypeScript Enthusiast | Physics Scholar
+    </span>
+  </h3>
 </div>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding GIF">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation"/>
+</p>
 </p>
 
 ---
@@ -19,7 +27,8 @@
 ## :bar_chart: Top Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shahnewaj12008044&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahnewaj12008044&layout=compact&theme=radical&hide_border=true" />
+  
 </p>
 
 ---
@@ -54,9 +63,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahnewaj-al-hasan-a131b2229" target="_blank">
-    <img src="images/Linkedin.png" alt="LinkedIn" width="55" height="75" />
+    <img src="images/Linkedin.png" alt="LinkedIn"  height="75" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank">
     <img src="images/Facebook.png" alt="Facebook"  height="75" />
   </a>
@@ -65,17 +74,26 @@
 <br />
 ---
 
-## :eyes: Current Overview
+## 👀 Current Overview
 
 <div align="left">
-<a href="https://github.com/shahnewaj12008044"><img align="right" src="https://github-readme-stats.vercel.app/api?username=shahnewaj12008044&show_icons=true&theme=radical&hide_border=true" width="250" alt="Shahnewaj's Dev Card"/></a>
+  <a href="https://app.daily.dev/shahnewaj12008044">
+    <img 
+      src="https://api.daily.dev/devcards/v2/WybnG9jfioDHAAgKjxezy.png?r=9dh&theme=dark" 
+      width="300" 
+      alt="Md Shahnewaj Al Hasan's Dev Card" 
+      align="left"
+    />
+  </a>
 </div>
 
-### 🔭 I’m working - On high-performance utility websites.
-### 🌱 I’m exploring - AI automation and advanced Next.js patterns.
-### 👯 I’m looking - To collaborate on MERN stack open-source projects.
+<br clear="left"/>
+
+### 🔭 I’m working on high-performance utility websites.
+### 🤖 I work with AI automation using tools like n8n, GoHighLevel, OpenClaw and other no-code/low-code platforms.
+### 🌱 I’m exploring AI automation and advanced Next.js patterns.
+### 👯 I’m looking to collaborate on MERN stack open-source projects.
 ### ⚛️ Physics Background - Bringing analytical logic to web architecture.
-### ⚡ Fun fact - I dual-boot Linux and Windows for the best of both worlds.
 
 ---
 
