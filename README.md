@@ -54,15 +54,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahnewaj-al-hasan-a131b2229" target="_blank">
-    <img src="images/Linkedin.png" alt="LinkedIn" width="55" height="55" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdshahnewajalhasanmern@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="55" height="55" />
+    <img src="images/Linkedin.png" alt="LinkedIn" width="55" height="75" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank">
-    <img src="images/Facebook.png" alt="Facebook" width="55" height="55" />
+    <img src="images/Facebook.png" alt="Facebook"  height="75" />
   </a>
 </p>
 
