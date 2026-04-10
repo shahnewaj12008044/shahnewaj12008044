@@ -12,14 +12,14 @@
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahnewaj12008044&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=shahnewaj12008044&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=shahnewaj12008044&theme=radical&hide_border=true" />
 </p>
 
 ## :bar_chart: Top Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnewaj12008044&layout=compact&theme=radical&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shahnewaj12008044&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/shahnewajalhasan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mdshahnewajalhasanmern@gmail.com">
+  <a href="mailto:mdshahnewajalhasanmern@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
