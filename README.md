@@ -56,9 +56,11 @@
   <a href="https://www.linkedin.com/in/shahnewajalhasan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+<p align="center">
   <a href="mailto:mdshahnewajalhasanmern@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
 </p>
 
 ---
@@ -74,7 +76,3 @@
 
 ---
 
-### 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnewaj12008044&layout=compact&theme=radical&hide_border=true" />
-</p>
