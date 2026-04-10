@@ -53,18 +53,20 @@
 ## :mailbox: Reach me out
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahnewajalhasan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/shahnewaj-al-hasan-a131b2229" target="_blank">
+    <img src="images/Linkedin.png" alt="LinkedIn" width="55" height="55" />
   </a>
-<p align="center">
-  <a href="mailto:mdshahnewajalhasanmern@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdshahnewajalhasanmern@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="55" height="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank">
+    <img src="images/Facebook.png" alt="Facebook" width="55" height="55" />
   </a>
 </p>
-</p>
-<p align="center">
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:mdshahnewajalhasanmern@gmail.com)
-</p>
+
+<br />
 ---
 
 ## :eyes: Current Overview
@@ -78,33 +80,6 @@
 ### 👯 I’m looking - To collaborate on MERN stack open-source projects.
 ### ⚛️ Physics Background - Bringing analytical logic to web architecture.
 ### ⚡ Fun fact - I dual-boot Linux and Windows for the best of both worlds.
-
-<br clear="right" />
-
-## :mailbox: Reach me out
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahnewaj-al-hasan-a131b2229" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdshahnewajalhasanmern@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="50" height="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="50" height="50" />
-  </a>
-</p>
-
-<br />
-
-- 🔭 **I’m currently working on:** Building utility websites and solving complex MERN stack challenges.
-- 🌱 **I’m exploring:** AI automation and its integration into web development.
-- 👯 **I’m looking to collaborate on:** Open-source projects and Next.js applications.
-- ⚛️ **Physics Background:** I bring an analytical approach to coding from my BSc in Physics.
-- 🌍 **Goal:** Aiming for an Erasmus Mundus Scholarship for further research.
-- ⚡ **Fun fact:** I can manage dual-boot systems better than I manage my sleep schedule!
 
 ---
 
