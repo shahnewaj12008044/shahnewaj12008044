@@ -12,7 +12,7 @@ B.Sc. Physics (Final Year) · University of Chittagong, Bangladesh
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://orcid.org/0009-0001-7977-7837">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
-<a href="https://docs.google.com/document/d/18GkCQtWFWM_Vr_MxX9gWZN06USz-nGSJ/edit?usp=sharing&ouid=114744688897449096467&rtpof=true&sd=true">
+<a href="https://drive.google.com/file/d/1nvLQyx61f4m_SpcLLP-t8dX-RboZrIF2/view?usp=sharing">
 <img src="https://img.shields.io/badge/CV-555555?style=flat-square&logo=readthedocs&logoColor=white" alt="CV"/></a>
 
 </div>
@@ -37,11 +37,11 @@ for the upcoming admission cycle.
 ### Manuscripts under review
 
 - **Theoretical Evaluation of Level-Density Effects in Neutron-Induced <sup>56</sup>Fe(n,p)<sup>56</sup>Mn Reactions**
-  *Under review, 2026.* [Draft](ADD_DRIVE_LINK)
+  *Under review, 2026.* [Draft](https://drive.google.com/file/d/14eB0ykDVxnagzTNe87E1Eqi6EVgb4SOh/view?usp=drive_link)
 
 - **Reaction-Conditioned Reliability Assessment of <sup>56</sup>Fe Neutron Cross-Section Predictions
   under Operational Experiment-Group, Publication and Chronological EXFOR Holdouts**
-  *Under review, 2026.* [Draft](ADD_DRIVE_LINK)
+  *Under review, 2026.* [Draft](https://drive.google.com/file/d/1yNxj9JG0BFiPRa2nWAPXJMm3x_P5mGfw/view?usp=drive_link)
 
 ### Interests
 
