@@ -36,7 +36,7 @@ for the upcoming admission cycle.
 
 ### Manuscripts under review
 
-- **Theoretical Evaluation of Level-Density Effects in Neutron-Induced <sup>56</sup>Fe(n,p)<sup>56</sup>Mn Reactions**
+- **Theoretical Evaluation of Level-Density Effects in Neutron-Induced Fe(n,p)Mn Reactions**
   *Under review, 2026.* [Draft](https://drive.google.com/file/d/14eB0ykDVxnagzTNe87E1Eqi6EVgb4SOh/view?usp=drive_link)
 
 - **Reaction-Conditioned Reliability Assessment of <sup>56</sup>Fe Neutron Cross-Section Predictions
