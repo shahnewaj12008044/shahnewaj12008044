@@ -54,14 +54,13 @@ for the upcoming admission cycle.
 
 ## Research code
 
-> Replace the entries below with your actual repositories. Each one should have its own README
-> explaining what it does, how to run it, and what the output means.
-
 | Repository | What it does |
 |---|---|
-| [`exfor-retrieval`](ADD_REPO_LINK) | Retrieves and parses experimental cross-section data from the EXFOR library into tidy, analysis-ready tables |
-| [`talys-cross-section-plots`](ADD_REPO_LINK) | Parses TALYS output and plots calculated excitation functions against experimental data |
-| [`level-density-comparison`](ADD_REPO_LINK) | Runs TALYS across level-density model options and compares the resulting cross-section predictions |
+| [`exfor-retrieval`](https://github.com/shahnewaj12008044/Nuclear-Data-Scrapping-and-Evaluation/tree/main/notebooks/scrapers) | Retrieves and parses experimental cross-section data from the EXFOR library into tidy, analysis-ready tables |
+| [`talys-cross-section-plots`](https://github.com/shahnewaj12008044/Nuclear-Data-Scrapping-and-Evaluation/tree/main/notebooks) | Parses TALYS output and plots calculated excitation functions against experimental data |
+| [`level-density-comparison`](https://github.com/shahnewaj12008044/Nuclear-Data-Scrapping-and-Evaluation/tree/main/notebooks/fe-56) | Runs TALYS across level-density model options and compares the resulting cross-section predictions |
+
+All three live in [`Nuclear-Data-Scrapping-and-Evaluation`](https://github.com/shahnewaj12008044/Nuclear-Data-Scrapping-and-Evaluation) — TALYS 2.2 + EXFOR notebooks for Fe/Cr isotopes.
 
 ---
 
