@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/bohr-atom.gif" alt="Bohr model of the atom" height="120" />
+
 # Md. Shahnewaj Al Hasan
 
 **Computational Nuclear Physics · Nuclear Data Evaluation**
@@ -67,13 +69,30 @@ All three live in [`Nuclear-Data-Scrapping-and-Evaluation`](https://github.com/s
 ## Toolkit
 
 **Nuclear physics**
-`TALYS 2.2` · `EXFOR` · statistical reaction modelling · cross-section evaluation
+
+![TALYS 2.2](https://img.shields.io/badge/TALYS_2.2-0B4C8C?style=flat-square)
+![EXFOR](https://img.shields.io/badge/EXFOR-8C1D18?style=flat-square)
+
+statistical reaction modelling · cross-section evaluation
 
 **Scientific computing**
-`Python` · `NumPy` · `pandas` · `Matplotlib` · `LaTeX` · `Git` · `Linux`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Software engineering**
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` · `MongoDB`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 I build production web applications as well as research code. For computational physics this is
 an asset rather than a detour: it means I can write maintainable, tested, reproducible analysis
